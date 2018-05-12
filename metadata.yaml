@@ -1,0 +1,47 @@
+_repo: Six-Prize-Hawaiian-Stories-of-the-Kilohana-Art-League_35437
+_version: 0.1.0
+alternative_title: Hawaiian Stories
+covers:
+- cover_type: archival
+  image_path: 35437-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: De La Vergne, George Harrison
+    aliases:
+    - Vergne, George Harrison de la
+    - La Vergne, George Harrison de
+    birthdate: 1868
+    gutenberg_agent_id: '37673'
+    url: http://www.gutenberg.org/2009/agents/37673
+  - agent_name: Armstrong, W. N.
+    gutenberg_agent_id: '37674'
+    url: http://www.gutenberg.org/2009/agents/37674
+  - agent_name: Girvin, James W. (James Walter)
+    birthdate: &id001 1844
+    deathdate: 1906
+    gutenberg_agent_id: '37675'
+    url: http://www.gutenberg.org/2009/agents/37675
+  - agent_name: Dillingham, Emma Louise Smith
+    alias: Dillingham, Emma L.
+    birthdate: *id001
+    deathdate: 1920
+    gutenberg_agent_id: '37672'
+    url: http://www.gutenberg.org/2009/agents/37672
+description: ''
+gutenberg_issued: '2011-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hawaii -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American -- Hawaii'
+- !lcc 'PS'
+tableOfContents: Kalani / E.L. Dillingham -- A legend of Haleakala / G.H. De La Vergne
+  -- Peleg Chapman's sharks / W.N. Armstrong -- 'Twas Cupid's dart / J.W. Girvin --
+  Legend of Hiku i Kanahele / Mauricio -- The story of a brave woman.
+title: Six Prize Hawaiian Stories of the Kilohana Art League
+url: http://www.gutenberg.org/ebooks/35437
