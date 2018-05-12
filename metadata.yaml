@@ -17,17 +17,19 @@ creator:
     gutenberg_agent_id: '37674'
     url: http://www.gutenberg.org/2009/agents/37674
   - agent_name: Girvin, James W. (James Walter)
-    birthdate: &id001 1844
+    birthdate: 1844
     deathdate: 1906
     gutenberg_agent_id: '37675'
     url: http://www.gutenberg.org/2009/agents/37675
   - agent_name: Dillingham, Emma Louise Smith
     alias: Dillingham, Emma L.
-    birthdate: *id001
+    birthdate: 1844
     deathdate: 1920
     gutenberg_agent_id: '37672'
     url: http://www.gutenberg.org/2009/agents/37672
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35437#Six-Prize-Hawaiian-Stories-of-the-Kilohana-Art-League
 gutenberg_issued: '2011-03-01'
 gutenberg_type: Text
 identifiers:
